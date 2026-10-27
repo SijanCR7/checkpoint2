@@ -1,0 +1,18 @@
+{
+  "name": "Offline Notes",
+  "short_name": "Notes",
+  "description": "A private, offline-first notes app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#f7f8f4",
+  "icons": [
+    {
+      "src": "/note-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
